@@ -1,0 +1,7 @@
+flask
+onnxruntime
+numpy
+git+https://github.com/SKTBrain/KoBERT.git#egg=kobert_tokenizer&subdirectory=kobert_hf
+torch >= 1.8.1
+transformers >= 4.8.2
+sentencepiece >= 0.1.91
